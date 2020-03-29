@@ -1,1 +1,1 @@
-# Logout-of-WordPress-without-confirmation-message
+# Logout of WordPress without confirmation message
